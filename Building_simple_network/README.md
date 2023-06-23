@@ -1,6 +1,13 @@
 SIMPLE NETWORK 
 
 
+
+![image_2023-06-23_103117201](https://github.com/Alejandr0-1/Becode-Projects/assets/133444506/68e28251-0e7d-401c-99eb-2a2d867eadc8)
+
+
+
+
+
 # Building a simple network
 
 
