@@ -5,22 +5,22 @@ Bandit wargame is aimed at absolute beginners. It will teach the basics needed t
 It is a 'Capture The Flag' game
 
 ----
-## To play the game,  
+## To play the game  
 
-You need to connect via ssh. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. 
+You need to connect via ssh. The host to which you need to connect is bandit.labs.overthewire.org, port 2220. username 'bandit0' and password 'bandit0' . 
 
  ##  " ssh bandit0@bandit.labs.overthewire.org -p 2220  "
 ----
 
 ## Concept
-Every level will increase the bandit's username level in the ssh command. Since your username started with 0 (zero) - bandit0@... - once you obtain the password for the next level, you simply increase a number in your username:
+Every level will increase the bandit's username level in the ssh command. Since your username started with 0 (zero) - bandit0@... - once you obtain the password for the next level, simply increase a number in your username
 
-    ssh bandit1@bandit.labs.overthewire.org -p 2220
+    ssh bandit?-@bandit.labs.overthewire.org -p 2220
 
 ---
 # Progress
 
-Here i show the command(s) used to find the password and the password itself. 
+Commands used to find the password and the password itself. 
 
 |Level|Command(s) used|Password|Comments
 |--|--|--|--|
