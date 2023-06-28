@@ -2,7 +2,7 @@
 
 Your colleagues have provided you with emails in .eml format, ".eml" files are individual email files stored in Multipurpose Internet Mail Extensions (MIME) format. To scan .eml emails, you can use tools such as email clients (Outlook, Thunderbird, etc.), email viewing applications, or specialized tools such as email scanners.
 
-__
+_____
 
 ## Here are some general steps you can take to scan an .eml file:
 
