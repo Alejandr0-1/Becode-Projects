@@ -1,4 +1,3 @@
-
 # Step 1: Server Setup:
 
 - Choose a Linux distribution that best suits the requirements 
@@ -9,6 +8,7 @@
 
 - Update the system packages to ensure you have the latest software versions.
 
+-----
 
 # Step 2:  DHCP Server Configuration:
 
@@ -25,7 +25,9 @@
 
    " sudo systemctl start isc-dhcp-server "
 
+
 ----
+
 
 # Step 3:  DNS Server Configuration:
 
@@ -47,6 +49,7 @@
 
 ----
 
+
 # Step 4:  HTTP and MariaDB Server Configuration:
 
 - Install the required packages for the HTTP server and MariaDB:
@@ -67,7 +70,9 @@
 
    "sudo systemctl restart apache2 // sudo systemctl restart mariadb"
 
+
 ----
+
 
 # Step 5: Weekly Backup:
 
@@ -77,6 +82,7 @@
 
 
 -----
+
 
 # Step 6: Server Remote Management (SSH):
 
@@ -102,6 +108,7 @@
 
 
 -----
+
 
 # Step 8: '/home' Folder on Separate Partition:
 
